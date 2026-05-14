@@ -7,7 +7,7 @@ function Banner() {
         <div className='max-w-screen-2xl container mx-auto md:px-20 px-4 flex flex-col md:flex-row my-10'>
             <div className='order-2 md:order-1 w-full md:w-1/2 mt-12 md:mt-30'>
                 <div className='space-y-12'>
-                    <h1 className='text-4xl font-bold'>Hello, welcomes here to learn something <span className='text-pink-500'>new everydat!</span></h1>
+                    <h1 className='text-4xl font-bold'>Hello, welcomes here to learn something <span className='text-pink-500'>new everyday!</span></h1>
                 <p>
                     Hello welcomes here to learn something new everyday is a cheerful invitation to curiosity and growth. This topic reminds us that each sunrise brings fresh ideas, skills, and opportunities to explore. When we greet learners with warmth, they feel encouraged to ask questions, make mistakes, and discover hidden talents. 
                 </p>
